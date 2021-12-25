@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-12-23 07:42:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2021-12-19 00:48:35 +0000"
@@ -299,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2021-12-24 08:54:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2021-12-22 07:36:18 +0000"
@@ -311,9 +323,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2021-12-23 07:44:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2021-12-20 07:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2021-12-24 10:36:57 +0000"
     },
     "done": true
   },
@@ -332,6 +356,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2021-12-22 08:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2021-12-24 10:13:21 +0000"
     },
     "done": true
   },
@@ -379,6 +409,7 @@
       "golden_apple": "2021-12-22 09:22:43 +0000",
       "rotten_flesh": "2021-12-20 05:49:34 +0000",
       "golden_carrot": "2021-12-22 01:34:38 +0000",
+      "beetroot": "2021-12-24 08:55:11 +0000",
       "cooked_salmon": "2021-12-22 08:43:01 +0000",
       "carrot": "2021-12-20 05:41:12 +0000"
     },
@@ -405,6 +436,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2021-12-19 01:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2021-12-24 10:35:09 +0000"
     },
     "done": true
   },
@@ -588,6 +625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2021-12-23 08:04:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2021-12-19 00:48:35 +0000"
@@ -675,6 +718,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-20 06:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2021-12-24 08:54:54 +0000"
     },
     "done": true
   },
@@ -942,11 +991,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2021-12-24 10:13:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2021-12-20 02:28:18 +0000",
       "minecraft:spider": "2021-12-20 07:14:30 +0000",
       "minecraft:creeper": "2021-12-20 10:04:41 +0000",
+      "minecraft:enderman": "2021-12-24 08:59:27 +0000",
       "minecraft:zombie": "2021-12-20 01:59:34 +0000",
       "minecraft:zombie_villager": "2021-12-20 07:36:43 +0000"
     },
@@ -961,6 +1017,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2021-12-20 06:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-12-23 07:42:41 +0000"
     },
     "done": true
   },
@@ -1033,6 +1095,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2021-12-20 04:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2021-12-23 08:04:35 +0000"
     },
     "done": true
   },
@@ -1135,6 +1203,18 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-12-19 01:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2021-12-24 10:35:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2021-12-23 08:11:25 +0000"
     },
     "done": true
   },
@@ -1327,6 +1407,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2021-12-21 21:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2021-12-23 08:08:51 +0000"
     },
     "done": true
   },
@@ -1719,7 +1805,9 @@
       "minecraft:snowy_slopes": "2021-12-20 10:49:55 +0000",
       "minecraft:old_growth_pine_taiga": "2021-12-22 08:59:23 +0000",
       "minecraft:taiga": "2021-12-19 20:11:06 +0000",
+      "minecraft:sunflower_plains": "2021-12-25 07:13:40 +0000",
       "minecraft:birch_forest": "2021-12-19 20:12:18 +0000",
+      "minecraft:windswept_hills": "2021-12-25 07:11:28 +0000",
       "minecraft:bamboo_jungle": "2021-12-19 00:55:57 +0000",
       "minecraft:beach": "2021-12-19 00:56:11 +0000",
       "minecraft:dark_forest": "2021-12-19 00:58:12 +0000",
@@ -1802,6 +1890,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2021-12-20 08:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2021-12-24 10:13:21 +0000"
     },
     "done": true
   },
@@ -1907,6 +2001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2021-12-23 07:44:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-12-20 06:18:48 +0000"
@@ -1916,6 +2016,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2021-12-22 07:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2021-12-24 10:35:09 +0000"
     },
     "done": true
   },
@@ -1955,6 +2061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2021-12-24 10:35:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2021-12-20 05:56:13 +0000"
@@ -1966,6 +2078,12 @@
       "has_planks": "2021-12-20 05:12:19 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2021-12-23 07:42:41 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
@@ -2024,6 +2142,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2021-12-20 06:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2021-12-23 08:04:35 +0000"
     },
     "done": true
   },

@@ -1,308 +1,63 @@
-[01:31:15] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:31:16] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:31:16] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:31:16] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:31:16] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:31:16] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:31:16] [ServerMain/INFO]: Reloading ResourceManager: Default
-[01:31:17] [Worker-Main-4/INFO]: Loaded 7 recipes
-[01:31:18] [Worker-Main-4/INFO]: Loaded 1141 advancements
-[01:31:22] [Server thread/INFO]: Starting minecraft server version 1.18.1
-[01:31:22] [Server thread/INFO]: Loading properties
-[01:31:22] [Server thread/INFO]: Default game type: SURVIVAL
-[01:31:22] [Server thread/INFO]: Generating keypair
-[01:31:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:31:22] [Server thread/INFO]: Using epoll channel type
-[01:31:23] [Server thread/INFO]: Preparing level "world"
-[01:31:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:31:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[01:31:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[01:31:26] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[01:31:26] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[01:31:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[01:31:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[01:31:26] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[01:31:26] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[01:31:27] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[01:31:27] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[01:31:28] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[01:31:28] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[01:31:29] [Worker-Main-4/INFO]: Preparing spawn area: 1%
-[01:31:29] [Worker-Main-4/INFO]: Preparing spawn area: 1%
-[01:31:30] [Worker-Main-5/INFO]: Preparing spawn area: 1%
-[01:31:30] [Worker-Main-6/INFO]: Preparing spawn area: 1%
-[01:31:31] [Worker-Main-5/INFO]: Preparing spawn area: 3%
-[01:31:31] [Worker-Main-6/INFO]: Preparing spawn area: 4%
-[01:31:32] [Worker-Main-6/INFO]: Preparing spawn area: 6%
-[01:31:32] [Worker-Main-4/INFO]: Preparing spawn area: 11%
-[01:31:33] [Worker-Main-6/INFO]: Preparing spawn area: 13%
-[01:31:33] [Worker-Main-5/INFO]: Preparing spawn area: 27%
-[01:31:34] [Worker-Main-6/INFO]: Preparing spawn area: 40%
-[01:31:34] [Worker-Main-6/INFO]: Preparing spawn area: 49%
-[01:31:35] [Worker-Main-5/INFO]: Preparing spawn area: 54%
-[01:31:35] [Worker-Main-4/INFO]: Preparing spawn area: 79%
-[01:31:36] [Worker-Main-6/INFO]: Preparing spawn area: 89%
-[01:31:37] [Server thread/INFO]: Time elapsed: 14372 ms
-[01:31:37] [Server thread/INFO]: Done (14.670s)! For help, type "help"
-[01:31:48] [User Authenticator #2/INFO]: UUID of player random7337 is c3d156c9-d391-4fd8-94ce-2fd361403df2
-[01:31:48] [User Authenticator #1/INFO]: UUID of player Ryyyz is 114709c3-8d0e-45e5-9dcf-3066d482dbc6
-[01:31:48] [Server thread/INFO]: random7337[/99.55.162.214:60207] logged in with entity id 166 at (1197.173539092709, 118.26636799395752, 219.3012793272323)
-[01:31:48] [Server thread/INFO]: random7337 joined the game
-[01:31:49] [Server thread/INFO]: Ryyyz[/68.21.163.221:60287] logged in with entity id 167 at (512.0711006948737, 68.0, 543.5647677610532)
-[01:31:49] [Server thread/INFO]: Ryyyz joined the game
-[01:31:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4032ms or 80 ticks behind
-[01:31:52] [User Authenticator #3/INFO]: UUID of player JairThebear is 40c977de-e8b0-403c-9c83-fff0e9a41d51
-[01:31:53] [Server thread/INFO]: JairThebear[/162.228.89.109:57996] logged in with entity id 175 at (1178.5861038993664, 116.0, 210.54143912671347)
-[01:31:53] [Server thread/INFO]: JairThebear joined the game
-[01:32:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2609ms or 52 ticks behind
-[01:37:07] [User Authenticator #4/INFO]: UUID of player jacky8844 is f4ccce06-98a4-4811-ba5d-c35d7a36b08d
-[01:37:07] [Server thread/INFO]: jacky8844[/71.191.210.27:62535] logged in with entity id 2024 at (1121.5, 94.0, 123.5)
-[01:37:07] [Server thread/INFO]: jacky8844 joined the game
-[01:37:11] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=1122, y=92, z=125}
-[01:37:13] [Server thread/WARN]: random7337 moved too quickly! 1.9411123335974025,0.8156999805212024,-9.975228212049615
-[01:37:21] [Server thread/INFO]: <JairThebear> ayoooo
-[01:37:27] [Server thread/INFO]: <jacky8844> aaawwww shieeet here we go again
-[01:37:47] [Server thread/INFO]: [JairThebear: Teleported jacky8844 to JairThebear]
-[01:37:59] [Server thread/INFO]: <JairThebear> LMAOOO
-[01:38:02] [Server thread/INFO]: <JairThebear> adolf
-[01:38:12] [Server thread/INFO]: <jacky8844> dude i havent been on this account in years
-[01:38:24] [Server thread/INFO]: <jacky8844> zi gave me this acc when we was still in middleschool
-[01:39:04] [Server thread/INFO]: <jacky8844> whos random7337
-[01:39:07] [Server thread/INFO]: <JairThebear> farres
-[01:39:09] [Server thread/INFO]: <random7337> Farres
-[01:39:11] [Server thread/INFO]: <jacky8844> nofuckinway
-[01:39:16] [Server thread/INFO]: <random7337> hi
-[01:39:21] [Server thread/INFO]: <jacky8844> palestininan farres?
-[01:39:22] [Server thread/INFO]: <random7337> Not alensander LEE
-[01:39:29] [Server thread/INFO]: <random7337> yeah
-[01:39:35] [Server thread/INFO]: <jacky8844> shieeeeeet
-[01:39:49] [Server thread/INFO]: <random7337> What farres isnt palestinian
-[01:40:42] [Server thread/INFO]: <JairThebear> alen
-[01:40:44] [Server thread/INFO]: <JairThebear> join server
-[01:40:48] [Server thread/INFO]: <JairThebear> on discord
-[01:41:00] [Server thread/INFO]: <jacky8844> dafaq yall made another discord?
-[01:42:29] [Server thread/INFO]: jacky8844 has made the advancement [Stone Age]
-[01:42:51] [Server thread/INFO]: jacky8844 has made the advancement [Getting an Upgrade]
-[01:44:59] [Server thread/INFO]: jacky8844 has made the advancement [Acquire Hardware]
-[01:47:39] [Server thread/INFO]: jacky8844 has made the advancement [Monster Hunter]
-[01:48:05] [Server thread/INFO]: jacky8844 has made the advancement [Isn't It Iron Pick]
-[01:53:09] [User Authenticator #5/INFO]: UUID of player GooGiu is 43849642-b853-476c-b0db-f3a0f07b6bec
-[01:53:09] [Server thread/INFO]: GooGiu[/98.37.251.229:62765] logged in with entity id 7542 at (-200.30000001192093, 65.0, 983.5326385453606)
-[01:53:09] [Server thread/INFO]: GooGiu joined the game
-[01:53:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3168ms or 63 ticks behind
-[01:53:17] [Server thread/INFO]: <GooGiu> fags
-[01:53:24] [Server thread/INFO]: <jacky8844> shut the hell up you dumb whore
-[01:53:30] [Server thread/INFO]: <GooGiu> OK ALEN
-[01:55:23] [Server thread/INFO]: JairThebear fell from a high place
-[01:55:24] [Server thread/INFO]: Skipping update from removed player 'adj['JairThebear'/175, l='ServerLevel[world]', x=1174.48, y=0.00, z=136.01, removed=KILLED]'
-[02:00:14] [Server thread/INFO]: <GooGiu> yes
-[02:00:22] [Server thread/INFO]: <GooGiu> sure sure
-[02:00:40] [Server thread/INFO]: <GooGiu> ill say something
-[02:02:19] [Server thread/INFO]: <GooGiu> np
-[02:07:13] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1283, y=151, z=200} gh{x=1283, y=152, z=201}
-[02:11:41] [Server thread/INFO]: random7337 has made the advancement [Acquire Hardware]
-[02:14:11] [Server thread/INFO]: <GooGiu> :9
-[02:14:14] [Server thread/INFO]: <GooGiu> :(
-[02:14:15] [Server thread/INFO]: <JairThebear> LOL
-[02:16:13] [Server thread/INFO]: JairThebear has made the advancement [Take Aim]
-[02:16:24] [Server thread/INFO]: <GooGiu> we can always postpone if jesus isnt feeling great
-[02:18:22] [Server thread/INFO]: <GooGiu> its ok guys ive seen it
-[02:18:28] [Server thread/INFO]: <GooGiu> you guys stay over there
-[02:18:30] [Server thread/INFO]: <GooGiu> WOW
-[02:19:06] [Server thread/INFO]: [JairThebear: Set own game mode to Creative Mode]
-[02:21:16] [Server thread/INFO]: <GooGiu> no lmao
-[02:21:21] [Server thread/INFO]: <GooGiu> its like 10 min drive
-[02:21:29] [Server thread/INFO]: <GooGiu> 10-15
-[02:22:08] [Server thread/INFO]: <GooGiu> its not for seats i dont mind
-[02:22:11] [Server thread/INFO]: JairThebear lost connection: Disconnected
-[02:22:11] [Server thread/INFO]: JairThebear left the game
-[02:22:33] [Server thread/INFO]: <GooGiu> im still pretty hungover ngl
-[02:22:45] [Server thread/INFO]: <GooGiu> yes
-[02:23:52] [Server thread/INFO]: <GooGiu> they hate u too
-[02:26:19] [Server thread/INFO]: jacky8844 has made the advancement [Sweet Dreams]
-[02:26:55] [Server thread/INFO]: <GooGiu> yes
-[02:26:57] [Server thread/INFO]: <GooGiu> im cool
-[02:27:06] [Server thread/INFO]: <GooGiu> Dont feel good
-[02:27:35] [User Authenticator #6/INFO]: UUID of player JairThebear is 40c977de-e8b0-403c-9c83-fff0e9a41d51
-[02:27:35] [Server thread/INFO]: JairThebear[/162.228.89.109:54083] logged in with entity id 24920 at (1274.485187301108, 145.65760188016125, 239.57318815230823)
-[02:27:35] [Server thread/INFO]: JairThebear joined the game
-[02:27:37] [Server thread/INFO]: Ryyyz lost connection: Disconnected
-[02:27:37] [Server thread/INFO]: Ryyyz left the game
-[02:27:44] [Server thread/WARN]: JairThebear moved too quickly! -5.993188864516242,0.0,-8.144020120446498
-[02:28:06] [Server thread/INFO]: JairThebear lost connection: Timed out
-[02:28:06] [Server thread/INFO]: JairThebear left the game
-[02:33:13] [Server thread/INFO]: <jacky8844> yo whys your home so budget
-[02:33:15] [Server thread/INFO]: <jacky8844> bootleg windows
-[02:39:35] [User Authenticator #7/INFO]: UUID of player Ryyyz is 114709c3-8d0e-45e5-9dcf-3066d482dbc6
-[02:39:35] [Server thread/INFO]: Ryyyz[/68.21.163.221:60638] logged in with entity id 28477 at (491.4943756057602, 72.0, 563.4507309147763)
-[02:39:35] [Server thread/INFO]: Ryyyz joined the game
-[02:39:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3078ms or 61 ticks behind
-[03:04:32] [Server thread/INFO]: random7337 lost connection: Disconnected
-[03:04:32] [Server thread/INFO]: random7337 left the game
-[03:09:33] [User Authenticator #8/INFO]: UUID of player random7337 is c3d156c9-d391-4fd8-94ce-2fd361403df2
-[03:09:33] [Server thread/INFO]: random7337[/99.55.162.214:55175] logged in with entity id 43385 at (1278.5, 151.875, 196.5)
-[03:09:33] [Server thread/INFO]: random7337 joined the game
-[03:11:40] [Server thread/INFO]: <jacky8844> yo giulia go find me some more iron
-[03:11:50] [Server thread/INFO]: <GooGiu> no bitch
-[03:12:01] [Server thread/INFO]: <GooGiu> find me some non retards
-[03:12:03] [Server thread/INFO]: <GooGiu> retard
-[03:12:53] [Server thread/INFO]: <jacky8844> y u no mic
-[03:13:01] [Server thread/INFO]: <GooGiu> im not in the call fucker
-[03:13:05] [Server thread/INFO]: <jacky8844> y not
-[03:13:09] [Server thread/INFO]: <GooGiu> cuz u gay
-[03:13:10] [Server thread/INFO]: <jacky8844> stop being a flaming homo
-[03:13:20] [Server thread/INFO]: <GooGiu> im mirroring u
-[03:13:26] [Server thread/INFO]: random7337 lost connection: Disconnected
-[03:13:26] [Server thread/INFO]: random7337 left the game
-[03:13:58] [User Authenticator #9/INFO]: UUID of player random7337 is c3d156c9-d391-4fd8-94ce-2fd361403df2
-[03:13:58] [Server thread/INFO]: random7337[/99.55.162.214:55389] logged in with entity id 46031 at (1284.373958474323, 151.0, 205.49896017662766)
-[03:13:58] [Server thread/INFO]: random7337 joined the game
-[03:18:14] [Server thread/INFO]: GooGiu lost connection: Disconnected
-[03:18:14] [Server thread/INFO]: GooGiu left the game
-[03:24:36] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1266, y=147, z=200} gh{x=1265, y=145, z=200}
-[03:31:04] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1243, y=108, z=257} gh{x=1244, y=107, z=258}
-[03:33:54] [Server thread/INFO]: jacky8844 has made the advancement [A Seedy Place]
-[03:35:55] [User Authenticator #10/INFO]: UUID of player GooGiu is 43849642-b853-476c-b0db-f3a0f07b6bec
-[03:35:55] [Server thread/INFO]: GooGiu[/98.37.251.229:63499] logged in with entity id 54181 at (879.1686963916529, 90.0, 657.3000000119209)
-[03:35:55] [Server thread/INFO]: GooGiu joined the game
-[03:38:31] [Server thread/INFO]: Ryyyz lost connection: Disconnected
-[03:38:31] [Server thread/INFO]: Ryyyz left the game
-[03:39:07] [Server thread/INFO]: GooGiu lost connection: Disconnected
-[03:39:07] [Server thread/INFO]: GooGiu left the game
-[03:43:36] [Server thread/INFO]: random7337 lost connection: Disconnected
-[03:43:36] [Server thread/INFO]: random7337 left the game
-[04:59:35] [Server thread/INFO]: jacky8844 lost connection: Disconnected
-[04:59:35] [Server thread/INFO]: jacky8844 left the game
-[06:55:47] [User Authenticator #11/INFO]: UUID of player Ryyyz is 114709c3-8d0e-45e5-9dcf-3066d482dbc6
-[06:55:47] [Server thread/INFO]: Ryyyz[/68.21.163.221:63392] logged in with entity id 68224 at (493.53189632141044, 72.0, 560.3000000119209)
-[06:55:47] [Server thread/INFO]: Ryyyz joined the game
-[07:03:15] [User Authenticator #12/INFO]: UUID of player JairThebear is 40c977de-e8b0-403c-9c83-fff0e9a41d51
-[07:03:15] [Server thread/INFO]: JairThebear[/162.228.89.109:50173] logged in with entity id 69708 at (1266.1001888923477, 134.5, 223.08112351310393)
-[07:03:15] [Server thread/INFO]: JairThebear joined the game
-[07:03:19] [Server thread/INFO]: <Ryyyz> discrod?
-[07:03:29] [Server thread/INFO]: [JairThebear: Set own game mode to Survival Mode]
-[07:03:34] [Server thread/INFO]: <JairThebear> ye
-[07:08:17] [Server thread/INFO]: [JairThebear: Set own game mode to Creative Mode]
-[07:08:32] [Server thread/INFO]: JairThebear lost connection: Disconnected
-[07:08:32] [Server thread/INFO]: JairThebear left the game
-[07:12:21] [User Authenticator #13/INFO]: UUID of player JairThebear is 40c977de-e8b0-403c-9c83-fff0e9a41d51
-[07:12:21] [Server thread/INFO]: JairThebear[/162.228.89.109:62144] logged in with entity id 72194 at (1084.2323559437307, 82.11650136792812, 243.9478524608979)
-[07:12:21] [Server thread/INFO]: JairThebear joined the game
-[07:13:49] [Server thread/INFO]: [JairThebear: Set own game mode to Survival Mode]
-[07:16:44] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=495, y=73, z=518} gh{x=495, y=72, z=517}
-[07:24:15] [Server thread/INFO]: JairThebear lost connection: Disconnected
-[07:24:15] [Server thread/INFO]: JairThebear left the game
-[07:24:42] [User Authenticator #14/INFO]: UUID of player JairThebear is 40c977de-e8b0-403c-9c83-fff0e9a41d51
-[07:24:42] [Server thread/INFO]: JairThebear[/162.228.89.109:62592] logged in with entity id 76810 at (917.9272086298089, 99.0, 317.69999998807907)
-[07:24:42] [Server thread/INFO]: JairThebear joined the game
-[07:24:51] [Server thread/INFO]: JairThebear lost connection: Disconnected
-[07:24:51] [Server thread/INFO]: JairThebear left the game
-[07:25:00] [User Authenticator #15/INFO]: UUID of player JairThebear is 40c977de-e8b0-403c-9c83-fff0e9a41d51
-[07:25:01] [Server thread/INFO]: JairThebear[/162.228.89.109:62598] logged in with entity id 77058 at (917.9535104571062, 99.0, 317.69999998807907)
-[07:25:01] [Server thread/INFO]: JairThebear joined the game
-[07:37:30] [Server thread/INFO]: JairThebear lost connection: Disconnected
-[07:37:30] [Server thread/INFO]: JairThebear left the game
-[07:37:42] [User Authenticator #16/INFO]: UUID of player JairThebear is 40c977de-e8b0-403c-9c83-fff0e9a41d51
-[07:37:42] [Server thread/INFO]: JairThebear[/162.228.89.109:52883] logged in with entity id 82287 at (1084.4664322988601, 65.0, 362.0737844695286)
-[07:37:42] [Server thread/INFO]: JairThebear joined the game
-[07:38:31] [Server thread/INFO]: Ryyyz has made the advancement [The Parrots and the Bats]
-[07:47:26] [User Authenticator #17/INFO]: UUID of player GooGiu is 43849642-b853-476c-b0db-f3a0f07b6bec
-[07:47:26] [Server thread/INFO]: GooGiu[/98.37.251.229:65280] logged in with entity id 86659 at (563.0154428926135, 78.0, 696.1652629109417)
-[07:47:26] [Server thread/INFO]: GooGiu joined the game
-[07:50:46] [User Authenticator #18/INFO]: UUID of player Zergslayer69 is cf0c754c-9646-4fd1-98bf-58f85c67cae1
-[07:50:46] [Server thread/INFO]: Zergslayer69[/74.51.155.75:30432] logged in with entity id 88339 at (1285.3441371198846, 154.0, 221.30001159366827)
-[07:50:46] [Server thread/INFO]: Zergslayer69 joined the game
-[07:50:57] [Server thread/INFO]: <Zergslayer69> yoooooooooooooooooooooooooooooooooooooooooooooo
-[07:51:00] [Server thread/INFO]: <GooGiu> wassup
-[07:51:09] [Server thread/INFO]: <Zergslayer69> slide to my crib
-[07:51:13] [Server thread/INFO]: <Zergslayer69> top of the mtn
-[07:51:29] [Server thread/INFO]: <JairThebear> hop on discord
-[07:51:45] [Server thread/INFO]: <Zergslayer69> i have been invaded
-[07:51:55] [Server thread/INFO]: <Zergslayer69> my neighbor is declaring war
-[07:52:02] [Server thread/INFO]: <Zergslayer69> ahahhahahahhahahah
-[07:52:11] [Server thread/INFO]: <JairThebear> it was alensander lee and farres
-[07:54:20] [Server thread/INFO]: Ryyyz lost connection: Disconnected
-[07:54:20] [Server thread/INFO]: Ryyyz left the game
-[07:56:22] [User Authenticator #19/INFO]: UUID of player jacky8844 is f4ccce06-98a4-4811-ba5d-c35d7a36b08d
-[07:56:22] [Server thread/INFO]: jacky8844[/71.191.210.27:52908] logged in with entity id 92091 at (1290.1355164375373, 66.0, 254.29529059879854)
-[07:56:22] [Server thread/INFO]: jacky8844 joined the game
-[07:56:59] [Server thread/INFO]: Zergslayer69 lost connection: Disconnected
-[07:56:59] [Server thread/INFO]: Zergslayer69 left the game
-[08:00:05] [User Authenticator #20/INFO]: UUID of player Ryyyz is 114709c3-8d0e-45e5-9dcf-3066d482dbc6
-[08:00:05] [Server thread/INFO]: Ryyyz[/68.21.163.221:63790] logged in with entity id 94793 at (493.85017463329984, 73.0, 561.8561355377675)
-[08:00:05] [Server thread/INFO]: Ryyyz joined the game
-[08:00:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[08:05:47] [Server thread/INFO]: Ryyyz lost connection: Disconnected
-[08:05:47] [Server thread/INFO]: Ryyyz left the game
-[08:10:21] [User Authenticator #21/INFO]: UUID of player Ryyyz is 114709c3-8d0e-45e5-9dcf-3066d482dbc6
-[08:10:21] [Server thread/INFO]: Ryyyz[/68.21.163.221:63852] logged in with entity id 100717 at (513.6999999880791, 68.0, 548.198137660789)
-[08:10:21] [Server thread/INFO]: Ryyyz joined the game
-[08:10:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2565ms or 51 ticks behind
-[08:25:56] [Server thread/INFO]: [JairThebear: Set own game mode to Creative Mode]
-[08:26:37] [Server thread/INFO]: [JairThebear: Set own game mode to Survival Mode]
-[08:29:21] [Server thread/INFO]: jacky8844 has made the advancement [Suit Up]
-[08:30:14] [Server thread/INFO]: GooGiu lost connection: Disconnected
-[08:30:14] [Server thread/INFO]: GooGiu left the game
-[08:31:48] [User Authenticator #22/INFO]: UUID of player Zergslayer69 is cf0c754c-9646-4fd1-98bf-58f85c67cae1
-[08:31:48] [Server thread/INFO]: Zergslayer69[/74.51.155.75:29730] logged in with entity id 113131 at (1285.300000011921, 154.0, 223.76249998807907)
-[08:31:48] [Server thread/INFO]: Zergslayer69 joined the game
-[08:42:38] [User Authenticator #23/INFO]: UUID of player GooGiu is 43849642-b853-476c-b0db-f3a0f07b6bec
-[08:42:38] [Server thread/INFO]: GooGiu[/98.37.251.229:65457] logged in with entity id 117227 at (-359.65594231932255, 66.0, 1059.9569426944217)
-[08:42:38] [Server thread/INFO]: GooGiu joined the game
-[08:48:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3524ms or 70 ticks behind
-[08:55:04] [Server thread/INFO]: Ryyyz lost connection: Disconnected
-[08:55:04] [Server thread/INFO]: Ryyyz left the game
-[08:55:16] [Server thread/INFO]: jacky8844 lost connection: Disconnected
-[08:55:16] [Server thread/INFO]: jacky8844 left the game
-[08:55:25] [User Authenticator #24/INFO]: UUID of player Ryyyz is 114709c3-8d0e-45e5-9dcf-3066d482dbc6
-[08:55:25] [Server thread/INFO]: Ryyyz[/68.21.163.221:64083] logged in with entity id 125452 at (1248.274927184337, 119.0, 222.76908097455976)
-[08:55:25] [Server thread/INFO]: Ryyyz joined the game
-[08:55:30] [User Authenticator #25/INFO]: UUID of player jacky8844 is f4ccce06-98a4-4811-ba5d-c35d7a36b08d
-[08:55:30] [Server thread/INFO]: jacky8844[/71.191.210.27:53761] logged in with entity id 125469 at (1256.6694416489734, 115.0, 204.8922423049938)
-[08:55:30] [Server thread/INFO]: jacky8844 joined the game
-[09:25:40] [Server thread/INFO]: [JairThebear: Set the weather to clear]
-[09:30:56] [Server thread/INFO]: [JairThebear: Set the weather to clear]
-[09:31:45] [Server thread/INFO]: jacky8844 lost connection: Disconnected
-[09:31:45] [Server thread/INFO]: jacky8844 left the game
-[09:36:20] [Server thread/INFO]: [JairThebear: Set the weather to clear]
-[09:42:11] [Server thread/INFO]: [JairThebear: Set the weather to clear]
-[09:43:52] [Server thread/INFO]: <GooGiu> \
-[09:47:52] [Server thread/INFO]: [JairThebear: Set the weather to clear]
-[09:53:35] [Server thread/INFO]: [JairThebear: Set the weather to clear]
-[09:58:53] [Server thread/INFO]: [JairThebear: Set the weather to clear]
-[10:04:00] [Server thread/INFO]: [JairThebear: Set the weather to clear]
-[10:09:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2150ms or 43 ticks behind
-[10:10:45] [Server thread/INFO]: GooGiu lost connection: Disconnected
-[10:10:45] [Server thread/INFO]: GooGiu left the game
-[10:11:05] [User Authenticator #26/INFO]: UUID of player GooGiu is 43849642-b853-476c-b0db-f3a0f07b6bec
-[10:11:05] [Server thread/INFO]: GooGiu[/98.37.251.229:52981] logged in with entity id 155758 at (492.56240565574404, 72.0, 564.3842241405887)
-[10:11:05] [Server thread/INFO]: GooGiu joined the game
-[10:20:22] [Server thread/INFO]: GooGiu lost connection: Disconnected
-[10:20:22] [Server thread/INFO]: GooGiu left the game
-[10:36:22] [Server thread/WARN]: Zergslayer69 moved wrongly!
-[10:38:15] [Server thread/INFO]: JairThebear lost connection: Disconnected
-[10:38:15] [Server thread/INFO]: JairThebear left the game
-[11:23:10] [Server thread/INFO]: Zergslayer69 has made the advancement [We Need to Go Deeper]
-[11:23:49] [Server thread/WARN]: Ryyyz was kicked for floating too long!
-[11:23:49] [Server thread/INFO]: Ryyyz lost connection: Flying is not enabled on this server
-[11:23:49] [Server thread/INFO]: Ryyyz left the game
-[11:23:57] [User Authenticator #27/INFO]: UUID of player Ryyyz is 114709c3-8d0e-45e5-9dcf-3066d482dbc6
-[11:23:57] [Server thread/INFO]: Ryyyz[/68.21.163.221:64927] logged in with entity id 179009 at (467.2957465078377, 73.43504655921839, 571.8348710920706)
-[11:23:57] [Server thread/INFO]: Ryyyz joined the game
-[12:06:58] [Server thread/INFO]: Ryyyz lost connection: Disconnected
-[12:06:58] [Server thread/INFO]: Ryyyz left the game
-[12:15:28] [Server thread/INFO]: Zergslayer69 lost connection: Disconnected
-[12:15:28] [Server thread/INFO]: Zergslayer69 left the game
-[19:03:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[19:03:00] [Server thread/INFO]: =/stop<--[HERE]
-[19:03:38] [Server thread/INFO]: Stopping the server
-[19:03:38] [Server thread/INFO]: Stopping server
-[19:03:38] [Server thread/INFO]: Saving players
-[19:03:38] [Server thread/INFO]: Saving worlds
-[19:03:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:03:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:03:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:03:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:03:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:03:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:03:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:55:13] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:55:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:55:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:55:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:55:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:55:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:55:14] [ServerMain/INFO]: Reloading ResourceManager: Default
+[21:55:15] [Worker-Main-4/INFO]: Loaded 7 recipes
+[21:55:16] [Worker-Main-4/INFO]: Loaded 1141 advancements
+[21:55:19] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[21:55:19] [Server thread/INFO]: Loading properties
+[21:55:19] [Server thread/INFO]: Default game type: SURVIVAL
+[21:55:19] [Server thread/INFO]: Generating keypair
+[21:55:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:55:19] [Server thread/INFO]: Using epoll channel type
+[21:55:19] [Server thread/INFO]: Preparing level "world"
+[21:55:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:55:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:55:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:55:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:55:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:55:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:55:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:55:23] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:55:23] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:55:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:55:24] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:55:25] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:55:25] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[21:55:26] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[21:55:26] [Worker-Main-4/INFO]: Preparing spawn area: 3%
+[21:55:27] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[21:55:27] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[21:55:28] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[21:55:28] [Worker-Main-6/INFO]: Preparing spawn area: 6%
+[21:55:29] [Worker-Main-6/INFO]: Preparing spawn area: 10%
+[21:55:29] [Worker-Main-4/INFO]: Preparing spawn area: 20%
+[21:55:30] [Worker-Main-4/INFO]: Preparing spawn area: 20%
+[21:55:30] [Worker-Main-6/INFO]: Preparing spawn area: 21%
+[21:55:31] [Worker-Main-4/INFO]: Preparing spawn area: 24%
+[21:55:31] [Worker-Main-6/INFO]: Preparing spawn area: 37%
+[21:55:32] [Worker-Main-4/INFO]: Preparing spawn area: 59%
+[21:55:32] [Worker-Main-5/INFO]: Preparing spawn area: 74%
+[21:55:33] [Worker-Main-6/INFO]: Preparing spawn area: 74%
+[21:55:33] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[21:55:35] [Server thread/INFO]: Time elapsed: 15012 ms
+[21:55:35] [Server thread/INFO]: Done (15.169s)! For help, type "help"
+[21:55:39] [User Authenticator #1/INFO]: UUID of player JairThebear is 40c977de-e8b0-403c-9c83-fff0e9a41d51
+[21:55:40] [Server thread/INFO]: JairThebear[/108.199.81.171:59455] logged in with entity id 56 at (1216.3639361605394, 112.0, 241.36724770909342)
+[21:55:40] [Server thread/INFO]: JairThebear joined the game
+[21:55:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:55:52] [Server thread/INFO]: /save<--[HERE]
+[21:55:57] [Server thread/INFO]: Stopping the server
+[21:55:57] [Server thread/INFO]: Stopping server
+[21:55:57] [Server thread/INFO]: Saving players
+[21:55:57] [Server thread/INFO]: Saving worlds
+[21:55:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:55:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:55:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:55:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:55:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:55:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:55:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
