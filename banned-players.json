@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "c3d156c9-d391-4fd8-94ce-2fd361403df2",
+    "name": "random7337",
+    "created": "2021-12-29 07:41:50 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
